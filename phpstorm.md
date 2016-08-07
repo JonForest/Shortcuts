@@ -8,6 +8,7 @@ Ctrl-Home            | Move to top of the page           |
 Ctrl-End             | Move to bottom of the page        |
 Ctrl-Alt-J           | Surround word with tag or cdata   | Useful in combination with Ctrl-W (select word) + Ctrl-Alt-J (surround word), Enter (select tag), type tag name
 Alt-9                | Show all changed files |
+Ctrl-Command-g       | Select all occruences             | Really useful if want to make the same changes, or delete all instances, in the same file
 
  
  * - these are custom keymappings that I have found useful while working on an Ubuntu desktop.
